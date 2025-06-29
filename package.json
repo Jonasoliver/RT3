@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "rt3-modulo": "github:LucasAraujo1016/RT3-Modulo"
+  }
+}
